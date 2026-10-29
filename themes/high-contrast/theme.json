@@ -2,7 +2,7 @@
   "name": "High Contrast",
   "schemaVersion": 1,
   "base": "dark",
-  "background": "#000000",
+  "background": "linear-gradient(#000000, #000000)",
   "icon": "M12 2a10 10 0 1 1 0 20a10 10 0 1 1 0-20zM12 4v16a8 8 0 1 0 0-16z",
   "iconFill": true,
   "colors": {
