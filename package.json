@@ -1,7 +1,7 @@
 {
   "name": "agent-wrangler-high-contrast-theme",
-  "version": "1.0.1",
-  "description": "A High Contrast theme for Agent Wrangler: black surfaces, white text, visible borders and a yellow accent, with every text pair at WCAG AAA.",
+  "version": "1.1.0",
+  "description": "A High Contrast theme for Agent Wrangler: black surfaces, white text, visible borders and a bright blue accent, with every text pair at WCAG AAA.",
   "type": "module",
   "license": "MIT",
   "repository": {

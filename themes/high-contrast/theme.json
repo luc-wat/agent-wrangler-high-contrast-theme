@@ -19,7 +19,7 @@
     "fg-subtle": "#c2c2c2",
     "border": "#d9d9d9",
     "border-muted": "#8c8c8c",
-    "accent": "#ffe600",
+    "accent": "#4dc3ff",
     "accent-fg": "#000000",
     "green": "#3dff6e",
     "green-fg": "#7dff9c",
@@ -51,8 +51,8 @@
     "terminal": {
       "bg": "#000000",
       "fg": "#ffffff",
-      "cursor": "#ffe600",
-      "selection": "#5c5200",
+      "cursor": "#4dc3ff",
+      "selection": "#003a5c",
       "ansi": {
         "black": "#9e9e9e",
         "red": "#ff6b6b",
