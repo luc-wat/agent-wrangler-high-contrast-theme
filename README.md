@@ -4,9 +4,10 @@ An [Agent Wrangler](https://github.com/PortSwigger/agent-wrangler) extension tha
 **High Contrast** theme to Settings › Appearance.
 
 It is a dark theme with solid black surfaces, no translucency or wallpaper, white text, clearly
-visible borders and a bright blue accent for focus and selection. Every text and background pair
-meets WCAG AAA (at least 7:1), including muted and subtle text, the status pills, the terminal ANSI
-palette and text on a terminal selection. Borders are at least 3:1.
+visible borders and a bright blue accent for focus, selection and keyboard hints. Every text and
+background pair meets WCAG AAA (at least 7:1), including muted and subtle text, the status pills,
+the hint markers, the terminal ANSI palette and text on a terminal selection. Borders are at least
+3:1.
 
 ## Install
 
