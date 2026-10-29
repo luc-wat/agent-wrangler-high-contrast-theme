@@ -1,0 +1,20 @@
+{
+  "name": "agent-wrangler-high-contrast-theme",
+  "version": "1.0.0",
+  "description": "A High Contrast theme for Agent Wrangler: black surfaces, white text, visible borders and a yellow accent, with every text pair at WCAG AAA.",
+  "type": "module",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luc-wat/agent-wrangler-high-contrast-theme.git"
+  },
+  "keywords": ["agent-wrangler-extension", "theme", "high-contrast", "accessibility"],
+  "wranglerExtension": {
+    "id": "high-contrast-theme",
+    "label": "High Contrast theme",
+    "description": "Adds a High Contrast theme to Settings › Appearance.",
+    "author": "luc-wat",
+    "requires": [],
+    "engines": { "wranglerApi": "^1.43.0" }
+  }
+}
